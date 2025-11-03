@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Merge Time Ranges - NodeJS Module
 
 This project provides a Node.js module that merges discontinuous time ranges within a given threshold.  
@@ -17,3 +18,13 @@ To test the module with sample inputs, run: node test.js
  To allow the user to enter custom ranges at runtime: node userInput.js
  for example :Enter ranges (e.g. [[1000,2000],[2500,4000]]): [[1000,2000],[2500,4000],[3900,4100]]
 Enter threshold value: 200
+=======
+# sde-assignment-mansi
+>>>>>>> f7df58c4a6b0f00914b7a757be4842598ff5b4aa
+
+
+<<<<<<< HEAD
+(your local content)
+=======
+(GitHub content)
+>>>>>>> main
